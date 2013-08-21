@@ -1,39 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Deck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <NetDeckID>0</NetDeckID>
-  <PreconstructedDeckID>0</PreconstructedDeckID>
-  <Cards CatID="36640" Quantity="3" Sideboard="false" Name="Flame Slash" />
-  <Cards CatID="44015" Quantity="1" Sideboard="false" Name="Ghostly Flicker" />
-  <Cards CatID="38259" Quantity="4" Sideboard="false" Name="Glimmerpost" />
-  <Cards CatID="46809" Quantity="2" Sideboard="false" Name="Izzet Guildgate" />
-  <Cards CatID="37324" Quantity="2" Sideboard="false" Name="Mana Leak" />
-  <Cards CatID="32859" Quantity="1" Sideboard="false" Name="Lightning Bolt" />
-  <Cards CatID="28245" Quantity="4" Sideboard="false" Name="Mulldrifter" />
-  <Cards CatID="25589" Quantity="2" Sideboard="false" Name="Mystical Teachings" />
-  <Cards CatID="47539" Quantity="4" Sideboard="false" Name="Prophetic Prism" />
-  <Cards CatID="37388" Quantity="4" Sideboard="false" Name="Preordain" />
-  <Cards CatID="14331" Quantity="2" Sideboard="false" Name="Prohibit" />
-  <Cards CatID="26065" Quantity="1" Sideboard="false" Name="Serrated Arrows" />
-  <Cards CatID="36556" Quantity="1" Sideboard="false" Name="Staggershock" />
-  <Cards CatID="9641" Quantity="1" Sideboard="false" Name="Capsize" />
-  <Cards CatID="38498" Quantity="1" Sideboard="false" Name="Counterspell" />
-  <Cards CatID="20191" Quantity="4" Sideboard="false" Name="Cloudpost" />
-  <Cards CatID="20838" Quantity="1" Sideboard="false" Name="Condescend" />
-  <Cards CatID="25419" Quantity="4" Sideboard="false" Name="Think Twice" />
-  <Cards CatID="46339" Quantity="1" Sideboard="false" Name="Electrickery" />
-  <Cards CatID="9595" Quantity="1" Sideboard="false" Name="Rolling Thunder" />
-  <Cards CatID="36664" Quantity="1" Sideboard="false" Name="Ulamog's Crusher" />
-  <Cards CatID="36452" Quantity="1" Sideboard="false" Name="Mnemonic Wall" />
-  <Cards CatID="46828" Quantity="8" Sideboard="false" Name="Island" />
-  <Cards CatID="46533" Quantity="5" Sideboard="false" Name="Mountain" />
-  <Cards CatID="46523" Quantity="1" Sideboard="false" Name="Island" />
-  <Cards CatID="28041" Quantity="2" Sideboard="true" Name="Hydroblast" />
-  <Cards CatID="36640" Quantity="1" Sideboard="true" Name="Flame Slash" />
-  <Cards CatID="22399" Quantity="2" Sideboard="true" Name="Stone Rain" />
-  <Cards CatID="16631" Quantity="2" Sideboard="true" Name="Earth Rift" />
-  <Cards CatID="28063" Quantity="3" Sideboard="true" Name="Pyroblast" />
-  <Cards CatID="46587" Quantity="1" Sideboard="true" Name="Dispel" />
-  <Cards CatID="36700" Quantity="2" Sideboard="true" Name="Sea Gate Oracle" />
-  <Cards CatID="46339" Quantity="1" Sideboard="true" Name="Electrickery" />
-  <Cards CatID="25539" Quantity="1" Sideboard="true" Name="Ancient Grudge" />
-</Deck>
+3 Flame Slash
+1 Ghostly Flicker
+4 Glimmerpost
+2 Izzet Guildgate
+2 Mana Leak
+1 Lightning Bolt
+4 Mulldrifter
+2 Mystical Teachings
+4 Prophetic Prism
+4 Preordain
+2 Prohibit
+1 Serrated Arrows
+1 Staggershock
+1 Capsize
+1 Counterspell
+4 Cloudpost
+1 Condescend
+4 Think Twice
+1 Electrickery
+1 Rolling Thunder
+1 Ulamog's Crusher
+1 Mnemonic Wall
+9 Island
+5 Mountain
+
+Sideboard
+2 Hydroblast
+1 Flame Slash
+2 Stone Rain
+2 Earth Rift
+3 Pyroblast
+1 Dispel
+2 Sea Gate Oracle
+1 Electrickery
+1 Ancient Grudge
