@@ -38,3 +38,9 @@
 1 Corpse Hauler
 2 Solemn Offering
 1 Artificer's Hex
+
+#283594238 (w)
+#283595852 (l) 
+#283596482 (l)
+
+
