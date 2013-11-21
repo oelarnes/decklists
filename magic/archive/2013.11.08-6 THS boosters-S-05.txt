@@ -1,0 +1,85 @@
+6 Island
+8 Swamp
+2 Plains
+1 Unknown Shores
+1 Traveler's Amulet
+1 Burnished Hart
+1 Battlewise Hoplite
+1 Sentry of the Underworld
+1 Aqueous Form
+1 Scourgemark
+1 Read the Bones
+1 Agent of the Fates
+1 Cavern Lampad
+1 Erebos's Emissary
+1 Insatiable Harpy
+1 Keepsake Gorgon
+1 Sip of Hemlock
+1 Triton Fortune Hunter
+1 Thassa, God of the Sea
+1 Fate Foretold
+1 Triton Tactics
+1 Wavecrash Triton
+1 Griptide
+1 Thassa's Emissary
+1 Shipbreaker Kraken
+1 Lash of the Whip
+1 Heliod's Emissary
+
+1 Setessan Battle Priest
+1 Triton Shorethief
+1 Benthic Giant
+1 Lost in a Labyrinth
+1 Loathsome Catoblepas
+1 Priest of Iroas
+1 Rage of Purphoros
+1 Satyr Rambler
+1 Satyr Hedonist
+3 Bronze Sable
+1 Labyrinth Champion
+1 Wingsteed Rider
+1 Chosen by Heliod
+1 Last Breath
+1 Borderland Minotaur
+1 Dragon Mantle
+2 Messenger's Speed
+1 Vanquish the Foul
+1 Rescue from the Underworld
+1 Colossus of Akros
+1 Cavalry Pegasus
+1 Returned Centaur
+2 Fade into Antiquity
+1 Asphodel Wanderer
+1 Purphoros's Emissary
+1 Leonin Snarecaster
+1 Lagonna-Band Elder
+1 Crackling Triton
+1 Pheres-Band Centaurs
+2 Boulderfall
+1 Spark Jolt
+1 Mnemonic Wall
+1 Thassa's Bounty
+1 Witches' Eye
+1 Gainsay
+1 Ember Swallower
+1 Coastline Chimera
+1 Feral Invocation
+1 Divine Verdict
+1 Favored Hoplite
+1 Sedge Scorpion
+1 Savage Surge
+2 Nylea's Presence
+1 Leafcrown Dryad
+1 Agent of Horizons
+1 Nylea's Disciple
+1 Karametra's Acolyte
+1 Centaur Battlemaster
+1 Nemesis of Mortals
+1 Nessian Asp
+1 Cutthroat Maneuver
+1 Scourgemark
+1 Plains
+3 Mountain
+2 Island
+1 Forest
+1 Felhide Minotaur
