@@ -1,0 +1,138 @@
+1 Conflux
+1 Birds of Paradise
+1 Obelisk of Grixis
+1 Simic Signet
+1 Armillary Sphere
+1 Jungle Barrier
+1 Tidehollow Strix
+1 Minister of Impediments
+1 Might of Alara
+1 Nemata, Grove Guardian
+1 Izzet Chronarch
+1 Firewild Borderpost
+1 Qasali Pridemage
+1 Lightning Helix
+1 Jilt
+1 Exclude
+1 Stinkweed Imp
+1 Condemn
+1 Aven Trailblazer
+1 Drag Down
+1 Guardian of the Guildpact
+1 Tower Gargoyle
+1 Skyward Eye Prophets
+1 Fungal Shambler
+1 Bant Panorama
+1 Blood Crypt
+1 Godless Shrine
+1 Izzet Boilerworks
+1 Jungle Shrine
+3 Plains
+3 Island
+2 Swamp
+3 Forest
+
+1 Death or Glory
+1 Llanowar Vanguard
+1 Explosive Growth
+1 Vigorous Charge
+1 Spirit Weaver
+1 Shackles
+1 Kavu Scout
+1 Addle
+1 Tainted Well
+1 Nightscape Apprentice
+1 Sunscape Apprentice
+1 Thunderscape Apprentice
+1 Traveler's Cloak
+1 Amphibious Kavu
+1 Aurora Griffin
+1 Caldera Kavu
+1 Dromar's Charm
+1 Volcano Imp
+1 Horned Kavu
+1 Hull Breach
+1 Implode
+1 Insolence
+1 Sea Snidd
+1 Heroic Defiance
+1 Star Compass
+1 Stormscape Familiar
+1 Morgue Toad
+1 Dega Disciple
+1 Dega Sanctuary
+1 Last Caress
+1 Ana Disciple
+1 Minotaur Tactician
+1 Orim's Thunder
+1 Sylvan Messenger
+1 Tundra Kavu
+1 Urborg Uprising
+1 Whirlpool Rider
+1 Mournful Zombie
+1 Putrid Warrior
+1 Fiery Conclusion
+1 Halcyon Glaze
+1 Terraformer
+1 Darkblast
+1 Consult the Necrosages
+1 Peel from Reality
+1 Galvanic Arc
+1 Barbarian Riftcutter
+1 Necromantic Thirst
+1 Dimir Infiltrator
+1 Tidewater Minion
+1 Seeds of Strength
+1 Harrier Griffin
+1 Orzhov Euthanist
+1 Ghost Warden
+1 Scab-Clan Mauler
+1 Vedalken Plotter
+1 Cremate
+1 Benediction of Moons
+1 Tin Street Hooligan
+1 Schismotivate
+1 Torch Drake
+1 Riot Spikes
+1 Slaughterhouse Bouncer
+1 Utvara Scalper
+1 Squealing Devil
+1 Enemy of the Guildpact
+1 Thrive
+1 Cytospawn Shambler
+1 Seal of Fire
+1 Beacon Hawk
+1 Magewright's Stone
+1 Blister Beetle
+1 Sanctum Gargoyle
+1 Goblin Assault
+3 Island
+1 Cavern Thoctar
+1 Angelsong
+1 Puppet Conjurer
+1 Coma Veil
+1 Undead Leotau
+1 Shadowfeed
+1 Infectious Horror
+1 Pestilent Kathari
+1 Wandering Goblins
+1 Corrupted Roots
+1 Ignite Disorder
+1 Valiant Guard
+1 Rhox Bodyguard
+1 Valeron Outlander
+1 Meddling Mage
+1 Sigil Captain
+1 Intimidation Bolt
+1 Vectis Dominator
+1 Soul Manipulation
+1 Monstrous Carabid
+1 Violent Outburst
+1 Jund Sojourners
+1 Naya Hushblade
+1 Jund Hackblade
+1 Gloryscale Viashino
+1 Archaeological Dig
+1 Wildsize
+1 Grixis Grimblade
+1 Repeal
