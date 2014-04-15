@@ -1,0 +1,31 @@
+Priest
+
+1 Inner Fire
+1 Northshire Cleric
+1 Young Priestess
+1 Acidic Swamp Ooze
+1 Crazed Alchemist
+1 Mad Bomber
+1 Master Swordsmith
+1 Nat Pagle
+2 Shadow Word: Death
+1 Acolyte of Pain
+1 Wolfrider
+1 Cult Master
+1 Defender of Argus
+1 Lightspawn
+1 Mogu'shan Warden
+1 Sen'jin Shieldmasta
+1 Twilight Drake
+2 Holy Nova
+1 Fen Creeper
+1 Holy Fire
+1 Cabal Shadow Priest
+1 Priestess of Elune
+1 Sunwalker
+2 Temple Enforcer
+1 Onyxia
+2 Mind Control
+
+Wins: 6
+Losses: 3

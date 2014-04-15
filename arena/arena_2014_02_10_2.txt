@@ -1,0 +1,27 @@
+Paladin
+
+1 Blessing of Might
+2 Blessing of Wisdom
+1 Noble Sacrifice
+3 Argent Protector
+2 Youthful Brewmaster
+1 Sword of Justice
+1 Divine Favor
+1 Demolisher
+1 Earthen Ring Farseer
+1 Scarlet Crusader
+1 Shattered Sun Cleric
+3 Truesilver Champion
+2 Blessing of Kings
+1 Chillwind Yeti
+1 Cult Master
+1 Defender of Argus
+2 Gnomish Inventor
+1 Sen'jin Shieldmasta
+1 Violet Teacher
+1 Fen Creeper
+1 Stampeding Kodo
+1 Guardian of Kings
+
+Wins: 1
+Losses: 3

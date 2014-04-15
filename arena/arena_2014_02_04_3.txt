@@ -1,0 +1,29 @@
+Druid
+
+1 Innervate
+2 Naturalize
+1 Argent Squire
+1 Wild Growth
+4 Wrath
+1 Dire Wolf Alpha
+1 Faerie Dragon
+1 Master Swordsmith
+1 Mark of Nature
+1 Harvest Golem
+1 Shattered Sun Cleric
+2 Swipe
+1 Cult Master
+1 Defender of Argus
+1 Ogre Magi
+2 Starfall
+1 Druid of the Claw
+1 Gadgetzan Auctioneer
+1 Gurubashi Berserker
+1 Silver Hand Knight
+1 Boulderfist Ogre
+1 Silvanas Windrunner
+1 War Golem
+1 Ironbark Protector
+
+Wins: 3
+Losses: 3

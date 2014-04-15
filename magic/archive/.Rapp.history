@@ -1,0 +1,283 @@
+help(demo)
+x = seq(0,1,.01)#
+#
+f <- function(x){x**2}#
+#
+plot(x,f(x),type='l')
+x = seq(0,1,.01)#
+#
+f <- function(x){sin(x)}#
+#
+plot(x,f(x),type='l')
+x = seq(0,100,.01)
+x = seq(0,100,.01)#
+#
+f <- function(x){sin(x)}#
+#
+plot(x,f(x),type='l')
+x = seq(0,100,.01)#
+#
+f <- function(x){sin(x)}#
+#
+plot(x,f(x),type='l')#
+#
+y <- f(x)#
+#
+summary(c(x,y))
+summary(matrix(c(x,y),2,byrow=TRUE)
+summary(matrix(c(x,y),2,byrow=TRUE))
+matrix(c(x,y),2,byrow=TRUE)
+summar(matrix(c(x,y),2,byrow=TRUE)
+summary(matrix(c(x,y),2,byrow=TRUE)
+dat <- csv.read('data.txt')
+dat <- read.csv('data.txt')
+pwd
+getwd()
+setwd('./projects/R')
+dat <- read.csv('data.txt')
+summary(dat)
+names(dat)
+dim(dat)
+head(dat)
+dat(1)
+dat[1]
+dat#"Sq Feet"
+dat#rooms
+dat#Sq.Feet
+names(dat)
+dat$Price
+dat$Rooms
+dat$Sq.Feet
+date
+help date
+?date
+Sys.Date - 90
+Sys.Date
+Sys.Date()
+Sys.Date()+90
+date("2014-07-04")
+date()
+date()+91
+date9)
+date()
+drafts <- read.csv('Magic Online Results - Drafts.csv')
+summary(drafts)
+names(drafts)
+ths <- drafts[drafts$sets == 'THSTHSTHS' | 'BNGTHSTHS']
+ths <- drafts[drafts$sets == 'THSTHSTHS' | drafts$sets == 'BNGTHSTHS']
+ths
+drafts$sets == 'THSTHSTHS'
+drafts$sets
+ths <- drafts[drafts$Sets == 'THSTHSTHS' | drafts$Sets == 'BNGTHSTHS']
+drafts$Sets
+drafts$Sets == 'THSTHSTHS'
+drafts$Sets == 'THSTHSTHS' | drafts$Sets == 'BNGTHSTHS'
+ths <- subset(drafts, Sets == 'THSTHSTHS' | Sets == 'BNGTHSTHS')
+ths
+names(ths)
+sum(drafts$MW)
+sum(drafts$ML)
+sum(drafts$MW)/(sum(drafts$MW+drafts$ML))
+sum(data_frame$MW)/(sum(data_frame$MW+data_frame$ML))
+drafts_wr <- function(data_frame){#
+	sum(data_frame$MW)/(sum(data_frame$MW+data_frame$ML))#
+}
+drafts_wr(drafts)
+list.files()
+head(drafts)
+tail(drafts)
+tail(drafts)
+drafts <- subset(drafts, Date != '')
+tail(drafts)
+tail(draftshead drafts)
+head(drafts)
+str(drafts)
+head(drafts$Date, 20)
+as.Date(drafts$Date, "%m/%d/%Y")
+drafts <- as.Date(drafts$Date, "%m/%d/%Y")
+drafts <- read.csv('Magic Online Results - Drafts.csv')
+drafts#Date <- as.Date(drafts$Date, "%m/%d/%Y")
+head(drafts)
+drafts$Date <- as.Date(drafts$Date, "%m/%d/%Y")
+head(drafts)
+tail(drafts)
+drafts <- subset(drafts, Date != <NA>)
+drafts <- subset(drafts, Date != NA)
+tail(drafts)
+drafts
+drafts <- read.csv('Magic Online Results - Drafts.csv')
+drafts$Date <- as.Date(drafts$Date, "%m/%d/%Y")
+head(drafts)
+names(drafst)
+names(drafts)
+theros_formats = c('TTT', 'BTT', '6T', '3B3T')
+drafts <- read.csv('Magic Online Results - Drafts.csv')#
+drafts_wr <- function(data_frame){#
+	sum(data_frame$MW)/(sum(data_frame$MW+data_frame$ML))#
+}#
+drafts$Date <- as.Date(drafts$Date, "%m/%d/%Y")#
+theros_formats = c('TTT', 'BTT', '6T', '3B3T')
+head(drafts)
+head(drafts$ML)
+tail(drafts$Decklist)
+?rename
+library()
+names(drafts)
+names(drafts)<-c("date", "format","NA", "wins1","losses1", "wins2","losses2","wins3","losses3","match_wins","match_losses","decklist")
+head(drafts)
+sum(data_frame$match_wins)/(sum(data_frame$match_wins+data_frame$match_losses))
+drafts_wr <- function(data_frame){#
+	sum(data_frame$match_wins)/(sum(data_frame$match_wins+data_frame$match_losses))#
+}
+drafts_wr(drafts)
+drafts$format <- sub("THSTHSTHS", "TTT", drafts$format)
+drafts$format
+drafts$format <- sub("BNGTHSTHS", "BTT", drafts$format)
+drafts$format <- sub("M13M13M13", "M13", drafts$format)
+drafts$format <- sub("THSTHSTHS", "THS", drafts$format)
+drafts$format <- sub("RTRRTRRTR", "RTR", drafts$format)
+drafts$format <- sub("THSTHSTHS", "THS", drafts$format)
+drafts$format <- sub("TTT", "THS", drafts$format)
+drafts$format
+drafts$format <- sub("GTCGTCGTC", "GTC", drafts$format)
+drafts$format <- sub("ZENZENWWK", "ZZW", drafts$format)
+drafts$format <- sub("M14M14M14", "M14", drafts$format)
+drafts$format <- sub("MRVIWL", "MVW", drafts$format)
+drafts$format <- sub("Cube", "CMTGO")
+drafts$format <- sub("Cube", "CMTGO", drafts$format)
+drafts$format
+drafts$format <- sub("NPHBSSOM", "NMS", drafts$format)
+drafts <- drafts[1:167]
+drafts <- drafts[1:167, :]
+drafts <- drafts[1:167, .]
+drafts <- drafts[1:167,]
+drafts
+head(drafts)
+tail(drafts)
+drafts <- drafts[,c("date","format","match_wins","match_losses","decklists")]
+drafts
+drafts[drafts$format == TTT,]
+drafts[drafts$format == 'TTT,]
+drafts[drafts$format == 'TTT',]
+drafts[drafts$format == 'TTT',]
+drafts
+drafts[drafts$format == 'TTT',]
+drafts$format
+drafts[drafts$format == 'THS',]
+drafts[drafts$format in c('TTT','BTT'),]
+drafts[any(drafts$format, c('TTT','BTT')),]
+drafts[drafts$format %in% c('TTT','BTT'),]
+drafts[drafts$format %in% c('THS','BTT'),]
+filter_formats <- function(data_frame, format_vec){#
+	data_frame[data_frame$format %in% format_vec]#
+}
+filter_formats(drafts, c('THS','BTT'))
+filter_formats <- function(data_frame, format_vec){#
+	data_frame[data_frame$format %in% format_vec,]#
+}
+ths <- filter_formats(drafts, c('THS','BTT'))
+ths
+drafts <- drafts[,c(1,2,10,11,12)]
+names(drafts)
+ths <- filter_formats(drafts, c('THS','BTT'))
+ths
+ths$format
+drafts
+drafts$decklist
+drafts$decklist <- sub("https://raw.github.com/oelarnes/decklists/master/magic/archive/", "", drafts$decklist)
+drafts$decklist
+drafts$decklist <- sub("%20", " ", drafts$decklist)
+drafts$decklist
+drafts$decklist <- sub("%20", " ", drafts$decklist)
+drafts$decklist
+drafts$decklist
+drafts$format[c(120, 124)] <- "CMTGOP"
+drafts
+drafts$format <- sub("NPHMBSSOM", "NMS", drafts$format)
+format_key <- matrix(c("THS", "Theros Draft", "BTT", "Born of the Gods/Theros Draft", "CMTGO", "Magic Online Cube", "CMTGOP", "Magic Online Powered Cube", "NMS", "Full Scars of Mirrodin Block Draft", "MM Block", "Mercadian Masques Block Draft", "ZZW", "Zendikar/Worldwake Draft", "GTC", "Gatecrash Draft", "M13", "Magic 2013 Draft"), columns=2, byrow=TRUE)
+?matrix
+format_key <- matrix(c("THS", "Theros Draft", "BTT", "Born of the Gods/Theros Draft", "CMTGO", "Magic Online Cube", "CMTGOP", "Magic Online Powered Cube", "NMS", "Full Scars of Mirrodin Block Draft", "MM Block", "Mercadian Masques Block Draft", "ZZW", "Zendikar/Worldwake Draft", "GTC", "Gatecrash Draft", "M13", "Magic 2013 Draft"), ncol=2, byrow=TRUE)
+format_key
+drafts$format
+format_key[10,] <- c("MVW", "Mirage Block Draft")
+format_key <- rbind(format_key, c("MVW", "Mirage Block Draft"))
+format_key
+format_key <- rbind(format_key, c("RTR", "Return to Ravnica Draft"))
+format_key <- rbind(format_key, c("M14", "Magic 2014 Draft"))
+format_key
+format_key[5,2] <- "Scars of Mirrodin Block Draft"
+format_key
+format_key <- rbind(format_key, c("SLD", "Urza's Saga Block Draft"))
+drafts$format <- sub("USULUD", "SLD", drafts$format)
+drafts$format
+drafts$format <- sub(format_key[,1], format_key[,2], drafts$format)
+drafts$format
+drafts$format <- sub(format_key[,2], format_key[,1], drafts$format)
+drafts
+head(drafts)
+tail(drafts)
+decks <- read.delim(drafts$decklist)
+decks <- read.delim(drafts$decklist[162])
+decks <- read.delim("../decklists/magic/archive/" + drafts$decklist[162])
+mtcars
+drafts[c("date","format")]
+drafts["decklist"]
+drafts["decklist"][25]
+drafts[25,"decklist"]
+drafts[["decklist"]]
+drafts[,"decklist"]
+drafts$decklist
+drafts["decklist"]
+L = drafts$decklist == ""
+L
+drafts[L]
+drafts[L,]
+drafts[!L,]
+should_have_dl <- filter_formats(drafts, c('THS', 'BTT','CMTGO','CMTGOP'))
+should_have_dl
+should_have_dl <- drafts$format %in% c('THS', 'BTT','CMTGO','CMTGOP')
+drafts[should_have_dl,]
+drafts[!should_have_dl,]
+drafts[!should_have_dl,]$decklist <- ""
+drafts[!should_have_dl,]$decklist
+drafts$decklist
+drafts
+s = paste("../decklists/magic/archive/", drafts$decklist)
+s
+s = paste("../decklists/magic/archive/", drafts$decklist, sep="")
+s
+decklists <- read.table(s)
+decklists <- read.table(s[0])
+s[0]
+s
+s[1]
+s = paste("../decklists/magic/archive/", drafts$decklist[should_have_dl,], sep="")
+s = paste("../decklists/magic/archive/", drafts$decklist, sep="")
+decklists <- read.table(drafts$decklist[should_have_dl])
+decklists <- read.table(drafts$decklist[should_have_dl])
+drafts$decklist[should_have_dl]
+s = paste("../decklists/magic/archive/", drafts$decklist[should_have_dl], sep = "")
+s
+read.table(s[1])
+s[1]
+cd(..)
+setwd('..')
+getwd('..')
+getwd()
+getwd("/R")
+setwd("/R")
+setwd("./R")
+getwd()
+drafts
+format_key
+drafts
+setwd("..")
+getwd()
+setwd("./R")
+getwd()
+formats = unique(drafts$format)
+formats
+set_wd("../decklists/magic/archive")
+setwd("../decklists/magic/archive")
+read.table("2014.04.03-Theros Block D-D-02.txt")
+scan("2014.04.03-Theros Block D-D-02.txt")

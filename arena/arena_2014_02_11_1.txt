@@ -1,0 +1,31 @@
+Rogue
+
+1 Backstab
+1 Conceal
+1 Deadly Poison
+2 Leper Gnome
+1 Worgen Infiltrator
+1 Young Priestess
+1 Blade Flurry
+1 Sap
+1 Acidic Swamp Ooze
+1 Amani Berserker
+1 Bluegill Warrior
+1 Defias Ringleader
+1 Dire Wolf Alpha
+1 Knife Juggler
+1 Headcracker
+1 Injured Blademaster
+1 Murloc Warleader
+2 SI:7 Agent
+1 Tauren Warrior
+1 Dark Iron Dwarf
+1 Sen'jin Shieldmasta
+1 Stranglethorn Tiger
+2 Reckless Rocketeer
+1 Windfury Harpy
+2 Sprint
+1 War Golem
+
+Wins: 5
+Losses: 3

@@ -1,0 +1,29 @@
+Rogue
+
+1 Deadly Poison
+1 Voodoo Doctor
+1 Betrayal
+1 Blade Fury
+1 Eviscerate
+1 Bluegill Warrior
+1 Defias Ringleader
+1 Fan of Knives
+1 Acolyte of Pain
+1 Harvest Golem
+1 Imp Master
+1 Injured Blademaster
+1 Ironfur Grizzly
+1 Mind Control Tech
+1 Ancient Brewmaster
+1 Gnomish Inventor
+1 Sen'jin Shieldmasta
+1 Silvermoon Guardian
+4 Assassin's Blade
+3 Assassinate
+2 Azure Drake
+1 Gadgetzan Auctioneer
+1 Stormpike Commander
+1 Sunwalker
+
+Wins: 4
+Losses: 3

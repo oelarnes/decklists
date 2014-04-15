@@ -1,0 +1,29 @@
+Warrior
+
+2 Execute
+1 Fiery War Axe
+1 Cruel Taskmaster
+1 Ironbeak
+1 Master Swordsmith
+1 River Crocodile
+2 Frothing Berserker
+1 Ironforge Rifleman
+1 Scarlet Crusader
+1 Shattered Sun Cleric
+1 Dark Iron Dwarf
+1 Dread Corsair
+4 Kor'kron Elite
+1 Sen'jin Shieldmasta
+1 Spellbreaker
+1 Stormwind Knight
+1 Arcanite Reaper
+1 Gurubashi Berserker
+2 Silver Hand Knight
+1 Argent Commander
+1 Boulderfist Ogre
+1 Sunwalker
+1 Stormwind Champion
+1 Garrosh Hellscream
+
+Wins: 4
+Losses: 3
