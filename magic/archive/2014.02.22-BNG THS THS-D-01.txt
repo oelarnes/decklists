@@ -14,7 +14,7 @@
 2 Observant Alseid
 1 Elite Skirmisher
 1 Fearsome Temper
-1 Ornitharc
+1 Ornitharch
 1 Ill-Tempered Cyclops
 1 Portent of Betrayal
 8 Plains
