@@ -13,7 +13,7 @@
 1 Kragma Butcher
 1 Fabled Hero
 1 Archetype of Courage
-1 Archetype of Agression
+1 Archetype of Aggression
 1 Evangel of Heliod
 1 Bolt of Keranos
 1 Divine Verdict
