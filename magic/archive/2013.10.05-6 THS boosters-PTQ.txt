@@ -15,7 +15,7 @@
 1 Anvilwrought Raptor
 1 Portent of Betrayal
 1 Stoneshock Giant
-1 Silent Arbiter
+1 Silent Artisan
 1 Evangel of Heliod
 9 Mountain
 8 Plains
